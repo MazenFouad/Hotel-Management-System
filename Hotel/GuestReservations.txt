@@ -1,0 +1,19 @@
+ReservationType, Name, Surname, Identification Number, Address, Phone Number, E-Posta, Room Type, Room No, Night Stay, Room Price ( $ )
+Receptionist,Arda Can,Doğan,12345678904,Kocaeli,05347654321,ardadogan@windowslive.com,Deluxe,3333,2,100,
+Receptionist,Arda Can,Doğan,12345678904,Kocaeli,05347654321,ardadogan@windowslive.com,Deluxe,3333,2,100,
+Guest,Duru İklim,Hasoğlu,41234567899,Antalya,05344654020,duruiklim@hasoglu.com,Suit,2222,5,200,
+Guest,Duru İklim,Hasoğlu,41234567899,Antalya,05344654020,duruiklim@hasoglu.com,Suit,2222,5,200,
+Receptionist,ma,sa,4231,231,14421,ewq,Suit,333,5,300,
+Receptionist,ma,sa,4231,231,14421,ewq,Suit,333,5,300,
+ReservationType, Name, Surname, Identification Number, Address, Phone Number, E-Posta, Room Type, Room No, Night Stay, Room Price ( $ )
+Guest,Duru İklim,Hasoğlu,41234567899,Antalya,05344654020,duruiklim@hasoglu.com,Suit,2222,5,200,
+Guest,Duru İklim,Hasoğlu,41234567899,Antalya,05344654020,duruiklim@hasoglu.com,Suit,2222,5,200,
+ Name, Surname, Identification Number, Address, Phone Number, Room Type, Room No, Night Stay, Room Price ( $ )
+mazen,foauydd,akdmmd,samaw,01222432,Deluxe,2113,2,100,
+mazen,foauydd,akdmmd,samaw,01222432,Deluxe,2113,2,100,
+itfytf,ljvhluglyu,98y687,lilhip7y,43786765,Suit,2123,2,100,
+itfytf,ljvhluglyu,98y687,lilhip7y,43786765,Suit,2123,2,100,
+mlnkn,wafpjiwf,kbdkmdl,awkfijf,nsfbljv,Deluxe,2235,2,100,
+mlnkn,wafpjiwf,kbdkmdl,awkfijf,nsfbljv,Deluxe,2235,2,100,
+naka,sax,liyi8jhgjgj,kgyj,32546,Suit,2234,2,100,
+naka,sax,liyi8jhgjgj,kgyj,32546,Suit,2234,2,100,

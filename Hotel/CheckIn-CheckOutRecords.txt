@@ -1,0 +1,2 @@
+ReservationType, Name, Surname, Identification Number, Address, Phone Number, E-Posta, Room Type, Room No, Night Stay, Room Price ( $ ), Check-Out Date
+Guest,Duru İklim,Hasoğlu,41234567899,Antalya,05344654020,duruiklim@hasoglu.com,Suit,2222,5,200,2022/12/25 15:49:35
